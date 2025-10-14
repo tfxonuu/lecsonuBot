@@ -1,4 +1,4 @@
-#saini bots
+#𝖘𝖍𝖆𝖍𝖓𝖆𝖜𝖆𝖟
 async-lru==2.0.2
 certifi==2023.5.7
 charset-normalizer==3.1.0
